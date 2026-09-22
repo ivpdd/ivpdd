@@ -1,4 +1,2 @@
 ## yo
-i make some projects \
-i dont really know \
-im not that special to put smth here lol \
+im about to publish 3div, my own rendering library
